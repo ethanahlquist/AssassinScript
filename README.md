@@ -4,7 +4,7 @@ Author: Ethan Ahlquist
 Date: Feb 11, 2020
 ---  
 
-# Assissin Script
+# Assassin Script
 
 At school, we wanted to play a game called assassin.
 
@@ -14,20 +14,22 @@ The solution I came up with was to create a script to email all the members of t
 
 # Usage
 
-   Usage: ./Moderator.py [filename]
+   ```Usage: ./Moderator.py [filename]```
 
 ## Create a file
 
 This file will hold name/email pairs of all players, like so:
 
-   name1 : email1
-   name2 : email2
-   name3 : email3
-   name4 : email4
-   name5 : email5
-   name6 : email6
-   name7 : email7
-   name8 : email8
+   ```
+   name1 : email1\\
+   name2 : email2\\
+   name3 : email3\\
+   name4 : email4\\
+   name5 : email5\\
+   name6 : email6\\
+   name7 : email7\\
+   name8 : email8\\
+   ```
 
 ## Running From Command Line
 
@@ -35,5 +37,5 @@ This file will hold name/email pairs of all players, like so:
 
    - ./Moderator.py [filename]
 
-filename is the file containing (name : email) pairs
+[filename] is the file containing (name : email) pairs
 
