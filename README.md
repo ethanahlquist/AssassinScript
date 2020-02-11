@@ -53,7 +53,7 @@ name8 : email8
 # Important
 
 To use this script, you must allow: 
-   -**Less secure apps & your Google Account**
+   - **Less secure apps to access your Google Account**
 
 As seen here: 
    - https://stackoverflow.com/questions/34460814/sending-email-with-google-smtp-in-python
