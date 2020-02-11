@@ -12,8 +12,9 @@ In this game, every person is given the name of a person they have to "hunt".
 
 Everyone wants to play, but we needed someone to moderate; to hand out targets.
 
-The solution I came up with was to create a script to email all the members of the game their randomly selected targets. So no one needs to know every person's target.
+The solution I came up with was to create a script to email all the members of the game their randomly selected targets. 
 
+In the end, no one knows another's target, because a computer generated and sent them.
 
 # Usage
 
