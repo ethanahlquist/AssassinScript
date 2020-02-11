@@ -10,9 +10,10 @@ At school, we wanted to play a game called assassin.
 
 In this game, every person is given the name of a person they have to "hunt".
 
-The issue is that everyone wants to play; however, we needed someone to be a moderator, to hand out targets (without meeting in-person).
+Everyone wants to play, but we needed someone to moderate; to hand out targets.
 
-The solution I came up with was to create a script to email all the members of the game their randomly selected targets.
+The solution I came up with was to create a script to email all the members of the game their randomly selected targets. So no one needs to know every person's target.
+
 
 # Usage
 
